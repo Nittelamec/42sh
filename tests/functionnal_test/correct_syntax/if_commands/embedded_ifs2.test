@@ -1,0 +1,7 @@
+if echo cond1; then
+    if false; then
+        echo YES;
+    else
+        echo YESYES
+   fi 
+fi

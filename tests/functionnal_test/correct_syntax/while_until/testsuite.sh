@@ -1,0 +1,2 @@
+run_test simple_false_while.test
+run_test simple_false_until.test

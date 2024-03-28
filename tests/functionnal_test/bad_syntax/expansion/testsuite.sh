@@ -1,0 +1,10 @@
+run_test expansion_var_2.test
+run_test expansion_var_1.test
+run_test double_into_single_quote_2.test
+run_test double_into_single_quote_1.test
+run_test single_into_double_quote_2.test
+run_test single_into_double_quote_1.test
+run_test simple_double_quote_2.test
+run_test simple_double_quote_1.test
+run_test simple_single_quote_2.test
+run_test simple_single_quote_1.test

@@ -1,0 +1,5 @@
+if true; then
+    echo first;
+fi;if true; then
+    echo second;
+fi
